@@ -2,6 +2,7 @@
 TokenGen It's a discord Token Generator Coded in python3
 It's my first code so, if u want to help me, you're welcome.
 This Generator Has an HWID Auth via pastebin.
+1) Discord server: https://discord.gg/UgJhHu7
 
 # ¿How To Use?
 1) Download it as a zip or in cmd "git clone https://github.com/MattyTM/TokenGen"
